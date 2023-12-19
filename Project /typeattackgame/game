@@ -620,7 +620,7 @@ void us()
 	gotoxy(30,6);
 	printf("||                                                         ||");
 	gotoxy(30,7);
-	printf("||        The game is 'Type Attack' Developed By:          ||");
+	printf("||        The game 'Type Attack' is Developed By:          ||");
 	gotoxy(30,8);
 	printf("||                Sheikh Naveed Azeemi [23K-0003]                    ||");
 	gotoxy(30,9);  
