@@ -1,22 +1,33 @@
                                                                 PROJECT PROPOSAL 
 Members:
+
 •	Sheikh Naveed Azeemi (23K-0003)
 •	Rao Ghulam Mohiuddin (23K-0001)
 •	Ghulam Murtaza Qazi (23K-0020)
+
 Game Overview
  The game will be a console-based typing game where the player has to type words that appear on the screen within a certain time limit. The words will be displayed on  the screen and the player has to type them before they disappear.
+ 
 Libraries
+
 The game will include standard C libraries such as stdio.h for input/output, stdlib.h for dynamic memory allocation, and time.h for random number generation and timing functions.
+
 Data Structures
+
    -  simple Arrays and 2D arrays will be used  to represent the game screen.
    - Strings will be used to store the words.
     - Pointers will be used to dynamically allocate memory for the words.
+     
 Game Logic
+
    - While loop, if-else statements and switch cases will be used  for the main game loop and to handle user inputs and game inputs.  we will also  be using  bitwise operators  for some operations like checking if a word has reached the bottom of the screen. And  recursion for some tasks like generating random words.
 File Processing
    - It will Store a list of words in a file and use file processing functions to read from this file and populate your word structures.
+   - 
 Pointers and Dynamic Memory Management
+
    It will use pointers to access your arrays and structures and  dynamic memory management functions like malloc and free to allocate and deallocate memory for your words.
+   
                                                                 
 The target was to make a typing attack game where the player will  have to enter the letters as soon as  the letters  will be shown on the screen under a certain time . the user will be allowed to choose his level of difficulty between easy, intermediate and hard level . and the score will be given on the basis of how much letters have the user entered in the certain time limit .
 We have used different library functions including:
